@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Concepts'/>
+        <page name='Principles'/>
+        <page name='SRP-SingleResponsibilityPrinciple'/>
+        <page name='OCP-OpenClosePrinciple'/>
+        <page name='LSP-LiskovSubstitutionPrinciple'/>
+        <page name='ISP-InterfaceSegregationPriniple'/>
+        <page name='DIP-DependencyInversionPrinciple'/>
+    </pages>
+</playground>
