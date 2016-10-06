@@ -4,7 +4,11 @@ import UIKit
 
 var str = "Hello, playground"
 
+// Many Behaviours
+
 // method overloading: save function name with different parameters list
+// compile time polymorphism
+
 
 class Math {
     

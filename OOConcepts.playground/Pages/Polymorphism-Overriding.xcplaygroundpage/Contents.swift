@@ -15,6 +15,8 @@ var str = "Hello, playground"
 
 // Method Overriding
 // we can override methods, ie same fuction but different form (ie diff. behaviour)
+// Runtime polymorphism
+
 
 // No operator over
 
